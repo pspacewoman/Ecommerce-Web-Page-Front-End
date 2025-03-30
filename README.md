@@ -9,11 +9,11 @@ It will be designed to be simple, clean, and focused on the product, with clear 
 
 ## Features
 - Product Showcase: Display of product details, including high-quality images and specifications.
-- Responsive Design: The page is optimized for both desktop and mobile views.
-- Call-to-Action (CTA): A prominent button that encourages users to take action, such as making a purchase.
-- Clear Specifications: Detailed product specifications to aid customers in their decision-making process.
+- Responsive Design: In future, I will try to make it work for cross-platform, maybe mobile view.
+- Call-to-Action (CTA): An action button that encourages users to take action, such as making a purchase or adding to a cart.
+- Clear Specifications: Detailed product specifications to help customers in their decision-making process.
   
 ## Technologies Used
-- HTML5: The structure of the page.
-- CSS3: Styling to create a visually appealing layout.
-- JavaScript: For any interactive features (like a shopping cart or dynamic elements).
+- HTML: The structure of the page.
+- CSS: To create a visually appealing layout.
+- JavaScript: Future work. For any interactive features (like a shopping cart or dynamic elements).
