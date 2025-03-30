@@ -1,8 +1,7 @@
-# ecommerce-landing-page
 # E-commerce Landing Page Project
 
 ## Overview
-This project demonstrates my front-end development skills by creating an e-commerce landing page for the **Meta Quest 3 VR Headset**. The project will showcase HTML, CSS, and basic JavaScript capabilities. It is designed to be simple, clean, and focused on product presentation with clear specifications and a call-to-action button for user interaction.
+This project demonstrates my front-end development skills by creating an e-commerce landing page for the "Meta Quest 3 VR Headset". The project will showcase HTML, CSS, and basic JavaScript capabilities. It is designed to be simple, clean, and focused on product presentation with clear specifications and a call-to-action button for user interaction.
 
 ## Features
 - **Product Showcase**: Display of product details, including high-quality images and specifications.
