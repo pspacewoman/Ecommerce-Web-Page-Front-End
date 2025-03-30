@@ -35,7 +35,6 @@ It will be designed to be simple, clean, and focused on the product, with clear 
 Landing pages exist as standalone web pages, separate from the main website and from what I have observed, they are often used at the intersection with marketing campaigns. Here's how they exist:
 - they can exist as sub-web pages on the main website
 - they can exist independently like the one I am creating, "GitHub Landing Pages"
-- 
 
 
 
