@@ -17,7 +17,7 @@ It will be designed to be **simple, clean, and focused** on the product, with cl
 - **CSS**: To create a visually appealing layout. 🎨
 - **JavaScript**: Future work to add interactive features like a shopping cart or dynamic elements. ⚙️
 
-# 📚 Case Study - Website
+# 📚 Case Study 
 
 ## 📝 How Landing Pages Are Created
 - **Objectives**: Capturing leads (like signups and subscriptions), selling a product, or encouraging specific actions (buying a product, downloading an app). 🎯
